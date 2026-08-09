@@ -2,6 +2,8 @@
 **Profil : Émerainville (77) · 5 000 € cash · salarié comptable + associé garage auto · IA avancée · 10–20 h/sem · objectif +5 000 €/mois nets sous 5 ans**
 *Comité : l'Entrepreneur (bootstrap), le Banquier (cynique), l'Opérateur (30 jours ou rien). Analyse du 9 août 2026 — chiffres vérifiés en ligne à cette date.*
 
+> **⚠️ Mise à jour 09/08/2026 — Round 2** : le **Plan A a été écarté sur décision du porteur**. Il est conservé ici pour archive. Nouvelles idées, nouveau scoring et podium révisé dans [`comite-investissement-round-2.md`](./comite-investissement-round-2.md).
+
 ---
 
 ## VERDICT D'ABORD
