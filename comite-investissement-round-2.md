@@ -1,6 +1,8 @@
 # Comité d'investissement — ROUND 2 (Plan A écarté sur décision du porteur)
 *Même comité, mêmes règles, même profil. Le Plan A (conformité e-facturation + pilotage TPE) est rayé — acté, on ne le rediscute pas. Nouvelle divergence hors conseil compta. Analyse du 9 août 2026, prix vérifiés en ligne.*
 
+> **⚠️ Mise à jour 10/08/2026** : le porteur a ensuite écarté **tout ce qui repose sur le développement/l'automatisation par IA**. Le **Plan N2 (gestion de flotte) est retiré** — son économie reposait sur l'automatisation. Podium final : **1. Plan B renforcé (mandats + négoce + rachats de pannes) · 2. Plan C location (flywheel réparé→loué) · modules d'appoint (remorques, carte grise, gardiennage)**. Version opérationnelle : [`plan-daction.md`](./plan-daction.md).
+
 ---
 
 ## VERDICT D'ABORD — LE NOUVEAU PODIUM
