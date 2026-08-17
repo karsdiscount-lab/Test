@@ -52,6 +52,16 @@ Vous recevrez **votre carte WYZ directement à votre domicile**. Les cartes **pa
 
 Conservez votre carte dans votre véhicule : elle vous sera demandée lors de votre passage en centre de montage. Si vous ne l'avez pas reçue passé un délai raisonnable après cette date, merci de me le signaler.
 
+## 5. Cartes carburant : remplacement des cartes Shell par des cartes DKV
+
+Pour les collaborateurs dont la **carte Shell ne fonctionnait plus**, des **cartes DKV** ont été commandées en remplacement. Elles ont été livrées, **accompagnées du code de la carte**.
+
+Quelques points d'attention :
+
+- Utilisez désormais votre carte DKV pour vos pleins ; la carte Shell concernée n'est plus à utiliser.
+- Le code est **strictement personnel** : ne le notez pas sur la carte et ne le conservez pas avec elle.
+- Si vous n'avez pas reçu votre carte DKV ou son code, merci de me le signaler.
+
 ## Besoin d'aide ?
 
 L'équipe WYZ est à votre disposition du **lundi au vendredi, de 8h30 à 12h30 et de 13h30 à 18h** :
@@ -76,6 +86,7 @@ Cordialement,
 1. **Signature** : prénom, nom, fonction, téléphone, adresse mail.
 2. **Congés** : dates d'absence et nom du contact de remplacement pendant cette période.
 3. **Date d'envoi** : mardi 18/08 ou mardi 25/08 ?
+4. **Cartes DKV** : faut-il préciser où elles ont été livrées (domicile ou site) et si la carte Shell doit être détruite ou renvoyée ?
 
 Points arbitrés : restitution des pochettes sur site, le plus rapidement possible, sans date limite ; envoi à la liste de diffusion des collaborateurs disposant d'un véhicule.
 
