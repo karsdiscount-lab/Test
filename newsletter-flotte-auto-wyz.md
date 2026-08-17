@@ -1,7 +1,7 @@
 # Newsletter Flotte Auto — projet d'email
 
 **Envoi prévu :** mardi [JJ/MM/2026]
-**Destinataires :** l'ensemble des collaborateurs disposant d'un véhicule
+**Destinataires :** liste de diffusion de l'ensemble des collaborateurs disposant d'un véhicule
 **Pièces jointes :** `2026_fleet_doc_conducteur_diag.pdf` — `2026_fleet_doc_conducteur_commande.pdf`
 
 **Objet :** Flotte auto — Fin de la prestation Locafleet et arrivée de WYZ pour vos pneumatiques
@@ -16,7 +16,7 @@ Deux évolutions concernant la gestion de votre véhicule, que je vous remercie 
 
 La prestation Locafleet a pris fin le **30 juin 2026**. Les documents et supports Locafleet ne sont donc plus valables et ne doivent plus être utilisés.
 
-**Ce que vous devez faire :** retirer de votre véhicule la **pochette « Locafleet »**, avec l'intégralité de son contenu, et la **renvoyer sur site**.
+**Ce que vous devez faire :** retirer de votre véhicule la **pochette « Locafleet »**, avec l'intégralité de son contenu, et la **renvoyer sur site le plus rapidement possible**.
 
 ## 2. Un nouveau prestataire pneumatiques : WYZ, depuis le 01/08/2026
 
@@ -73,10 +73,10 @@ Cordialement,
 
 ## Points à compléter avant envoi
 
-1. **Date d'envoi** : mardi 18/08 ou mardi 25/08 ?
-2. **Signature** : prénom, nom, fonction, téléphone, adresse mail.
-3. **Congés** : dates d'absence et nom du contact de remplacement pendant cette période.
-4. **Restitution des pochettes** : faut-il fixer une date limite, et à qui les remettre sur site (accueil, responsable de site, service RH) ?
-5. **Périmètre des destinataires** : tous les collaborateurs équipés d'un véhicule, ou une population restreinte ?
+1. **Signature** : prénom, nom, fonction, téléphone, adresse mail.
+2. **Congés** : dates d'absence et nom du contact de remplacement pendant cette période.
+3. **Date d'envoi** : mardi 18/08 ou mardi 25/08 ?
+
+Points arbitrés : restitution des pochettes sur site, le plus rapidement possible, sans date limite ; envoi à la liste de diffusion des collaborateurs disposant d'un véhicule.
 
 Remarque : le mail d'origine annonçait WYZ « à partir du 01/08/2026 ». L'envoi étant postérieur, la formulation retenue est « depuis le 1er août 2026 ».
