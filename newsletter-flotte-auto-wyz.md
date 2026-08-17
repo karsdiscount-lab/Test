@@ -16,14 +16,7 @@ Deux évolutions concernant la gestion de votre véhicule, que je vous remercie 
 
 La prestation Locafleet a pris fin le **30 juin 2026**. Les documents et supports Locafleet ne sont donc plus valables et ne doivent plus être utilisés.
 
-**Ce que vous devez faire :** retirer de votre véhicule la **pochette « Locafleet »** et la renvoyer au siège, avec l'intégralité de son contenu, **à mon attention** :
-
-> [NOM PRÉNOM] — Service Flotte
-> [Raison sociale]
-> [Adresse du siège]
-> [Code postal – Ville]
-
-Merci de procéder à cet envoi **avant le [JJ/MM/2026]**.
+**Ce que vous devez faire :** retirer de votre véhicule la **pochette « Locafleet »**, avec l'intégralité de son contenu, et la **renvoyer sur site**.
 
 ## 2. Un nouveau prestataire pneumatiques : WYZ, depuis le 01/08/2026
 
@@ -55,9 +48,9 @@ Vous trouverez en pièces jointes les deux fiches conducteur WYZ (diagnostic et 
 
 ## 4. Vos cartes WYZ
 
-Vous recevrez **votre carte WYZ directement à votre domicile**. Conservez-la dans votre véhicule : elle vous sera demandée lors de votre passage en centre de montage.
+Vous recevrez **votre carte WYZ directement à votre domicile**. Les cartes **partent du site le 27/08/2026**.
 
-Si vous ne l'avez pas reçue d'ici le **[JJ/MM/2026]**, merci de me le signaler.
+Conservez votre carte dans votre véhicule : elle vous sera demandée lors de votre passage en centre de montage. Si vous ne l'avez pas reçue passé un délai raisonnable après cette date, merci de me le signaler.
 
 ## Besoin d'aide ?
 
@@ -80,7 +73,10 @@ Cordialement,
 
 ## Points à compléter avant envoi
 
-1. Nom et adresse exacte du siège pour le retour des pochettes Locafleet, ainsi que la date limite de renvoi.
-2. Date limite de réception des cartes WYZ.
-3. Dates de congés et nom du contact de remplacement.
-4. Le mail d'origine annonçait WYZ « à partir du 01/08/2026 ». L'envoi étant postérieur, la formulation retenue est « depuis le 1er août 2026 ».
+1. **Date d'envoi** : mardi 18/08 ou mardi 25/08 ?
+2. **Signature** : prénom, nom, fonction, téléphone, adresse mail.
+3. **Congés** : dates d'absence et nom du contact de remplacement pendant cette période.
+4. **Restitution des pochettes** : faut-il fixer une date limite, et à qui les remettre sur site (accueil, responsable de site, service RH) ?
+5. **Périmètre des destinataires** : tous les collaborateurs équipés d'un véhicule, ou une population restreinte ?
+
+Remarque : le mail d'origine annonçait WYZ « à partir du 01/08/2026 ». L'envoi étant postérieur, la formulation retenue est « depuis le 1er août 2026 ».
